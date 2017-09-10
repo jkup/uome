@@ -1,0 +1,15 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx '/Users/admin/.nvm/versions/node/v8.0.0/lib/node_modules/bs-platform/bin/reactjs_jsx_ppx_2.exe'
+FLG -ppx /Users/admin/.nvm/versions/node/v8.0.0/lib/node_modules/bs-platform/bin/bsppx.exe
+S /Users/admin/workspace/uome/node_modules/bs-platform/lib/ocaml
+B /Users/admin/workspace/uome/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -no-alias-deps -color always -w -40+6+7+27+32..39+44+45
+S /Users/admin/workspace/uome/node_modules/reason-react/lib/ocaml
+B /Users/admin/workspace/uome/node_modules/reason-react/lib/ocaml
+S src
+B lib/bs/src
+S src/simple
+B lib/bs/src/simple
+S src/interop
+B lib/bs/src/interop
+####BSB GENERATED: NO EDIT}

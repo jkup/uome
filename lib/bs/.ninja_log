@@ -1,0 +1,21 @@
+# ninja log v5
+2	214	0	src/interop/myBannerRe.mlast	c35fe6691fe06826
+0	217	0	src/simple/page.mlast	cbf4a13273f86ede
+4	223	0	src/interop/pageReason.mlast	3b5bac95ae6d2088
+214	232	0	src/interop/myBannerRe.mlast.d	d7f695515d764442
+217	239	0	src/simple/page.mlast.d	97d950a9ecd6e5fd
+223	239	0	src/interop/pageReason.mlast.d	eb8d0491cd1ef7a
+1	294	0	src/simple/simpleRoot.mlast	ff2882fb407e486f
+295	309	0	src/simple/simpleRoot.mlast.d	8a93a4650616f74b
+3	38	0	src/interop/myBannerRe.cmj	ee1bb1ef4c0ca234
+3	38	0	/Users/admin/workspace/uome/lib/js/src/interop/myBannerRe.js	ee1bb1ef4c0ca234
+3	38	0	src/interop/myBannerRe.cmi	ee1bb1ef4c0ca234
+1	51	0	src/simple/page.cmj	c50ac81eccfdca6a
+1	51	0	/Users/admin/workspace/uome/lib/js/src/simple/page.js	c50ac81eccfdca6a
+1	51	0	src/simple/page.cmi	c50ac81eccfdca6a
+38	86	0	src/interop/pageReason.cmj	4666852245b575cd
+38	86	0	/Users/admin/workspace/uome/lib/js/src/interop/pageReason.js	4666852245b575cd
+38	86	0	src/interop/pageReason.cmi	4666852245b575cd
+52	87	0	src/simple/simpleRoot.cmj	b31174cf8431a620
+52	87	0	/Users/admin/workspace/uome/lib/js/src/simple/simpleRoot.js	b31174cf8431a620
+52	87	0	src/simple/simpleRoot.cmi	b31174cf8431a620
